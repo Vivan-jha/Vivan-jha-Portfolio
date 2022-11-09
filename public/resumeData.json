@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Vivan jha ",
+    "occupation": "React developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "",
+    "bio": "Hi there! I am Vivan! . As a Full Stack developer I've worked both with startup And Small companies to help in their growth.",
+    "contactmessage": "",
+    "email": "vivaanjha2002@gmail.com",
+    "phone": "+918528494334",
+    "address": {
+      "street": "A-zone",
+      "city": "Durgapur",
+      "state": "Devosphere",
+      "zip": "W3B D3V"
+    },
+    "website": "",
+    "resumedownload": "/",
+    "social": [
+     
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Kent - UK",
+        "degree": "Bachelor's Degree",
+        "graduated": "2020-2024",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Disney Plus Clone (React JS)",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vivan is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Vivan has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
